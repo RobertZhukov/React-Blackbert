@@ -1,0 +1,135 @@
+.footer {
+  box-shadow: 0 0px 10px rgb(255, 255, 255);
+}
+
+.footer-info {
+	background-color: #c90000;
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.footer-subscribe {
+    background-color: black;
+    width: 100%;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-networks {
+    color: white;
+	font-size: 20px;
+	margin: 10px;
+}
+
+.social-networks i {
+    margin: 16px;
+}
+
+.social-networks i:hover {
+	color: black;
+	cursor: pointer;
+}
+
+.footer-menu {
+    display: flex;
+    justify-content: center;
+	align-items: center;
+	margin: 10px;
+}
+
+.footer-menu-item {
+    color: white;
+    margin: 10px;
+}
+
+.footer-menu-item:hover {
+	color: rgb(0, 0, 0);
+	cursor: pointer;
+}
+
+.ways-payment {
+    display: flex;
+    justify-content: space-between;
+	align-items: center;
+	margin: 10px;
+}
+
+.ways-payment-item {
+	opacity: 30%;
+	margin: 5px;
+}
+
+.ways-payment-item:hover {
+	cursor: pointer;
+	opacity: 100%;
+}
+
+.footer-subscribe-email {
+    text-align: center;
+    margin: 50px 30px 20px 30px;
+}
+
+.footer-subscribe-email h3 {
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.footer-subscribe-email p {
+    margin: 20px;
+    color: #aaa9a9;
+    font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize;
+    letter-spacing: 1.5px;
+}
+
+.footer-subscribe-email input {
+	padding: 10px 50px 10px 10px;
+    width: -webkit-fill-available;
+	border: 0;
+	border-radius: 0;
+    border-bottom: 1px solid #aaa9a9;
+	background-color: transparent !important;
+    color: #aaa9a9;
+	font-size: 12px;
+	font-weight: 600;
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize;
+	letter-spacing: 1.5px;
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+.fa-telegram-plane {
+    position: relative;
+    font-size: 25px;
+    bottom: 33px;
+	left: 174px;
+	color: #aaa9a9;
+}
+
+.fa-telegram-plane:hover {
+	color:#ca0000ef;
+	cursor: pointer;
+}
+
+.blackbert {
+	color: #fffffffa;
+	letter-spacing: 1.5px;
+    margin: 10px;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+}

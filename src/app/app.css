@@ -1,0 +1,7 @@
+a {
+    color: #ffffff;
+}
+
+.fas:hover, .far:hover, img:hover {
+	cursor: pointer;
+}

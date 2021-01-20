@@ -1,0 +1,13 @@
+
+.center-panel {
+	width: 60%;
+	height: inherit;
+	background-color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo img {
+	width: 237px;
+}

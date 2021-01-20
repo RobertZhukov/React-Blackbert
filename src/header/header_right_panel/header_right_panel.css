@@ -1,0 +1,35 @@
+.right-panel {
+	width: 20%;
+	height: inherit;
+	background-color: #C90000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.search {
+	margin: 15px;
+}
+
+.profile {
+	margin: 15px;
+}
+
+.basket {
+	margin: 15px;
+}
+
+.fa-search {
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.fa-user {
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.fa-gift {
+	font-size: 35px;
+	color: #ffffff;
+}

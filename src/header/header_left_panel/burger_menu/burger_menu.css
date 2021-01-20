@@ -1,0 +1,17 @@
+.burger {
+	display: block;
+}
+
+.fa-bars {
+	font-size: 40px;
+	color: #ffffff;
+}
+
+.cross {
+	display: none;
+}
+
+.fa-times {
+	font-size: 40px;
+	color: #ffffff;
+}

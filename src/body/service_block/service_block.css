@@ -1,0 +1,13 @@
+.service-block {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+	background: linear-gradient(to bottom, #fbf9f9, white);
+}
+
+.service {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
