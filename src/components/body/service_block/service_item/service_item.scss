@@ -1,0 +1,38 @@
+@import '../../../../styles/palette.scss';
+
+.service-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 3px 3px 3px grey;
+  border-radius: 9px;
+  margin: 10px;
+}
+
+.service-item:hover {
+  box-shadow: 3px 3px 10px -4px $redBrand;
+  cursor: pointer;
+}
+
+.service-detail {
+  margin: 10px;
+}
+
+.service-detail span {
+  color: gray;
+}
+
+.service img {
+  margin: 10px;
+  width: 40px;
+}
+
+.service img:hover {
+  width: 40px;
+  color: $redBrand;
+}
+
+.service-title {
+  font-size: 17px;
+  text-transform: uppercase;
+}
